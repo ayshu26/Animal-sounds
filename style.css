@@ -1,0 +1,33 @@
+body{
+    background-color:lightskyblue;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Kalam', cursive;
+font-family: 'Protest Riot', sans-serif;
+}
+.header_div{
+    background-color: aliceblue;
+    color: crimson;
+}
+.header_div p{
+    letter-spacing: 2px;
+    font-size: 10px;
+    font-weight: bold;
+    color: gray;
+    font-family: 'Roboto Mono', monospace;
+}
+.gray_div{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.copyrightfooter{
+    color: gray;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: azure;
+    line-height: 3;
+    text-align: center;
+}
